@@ -4,8 +4,8 @@ This is useful if you have a RGH/JTAG xbox 360 that you don't want to go online 
 
 Use XboxLive_blocklist for basic coverage.
 
-Add the Xbl_Content_servers list to block downloads, catalog and avatar domains (probably not necessary).
-
 Add Xbguard_alt_servers for a complete block of xbox live, even when using Stealth servers.
+
+Add the Xbl_Content_servers list to block downloads, catalog and avatar domains (probably not necessary).
 
 Complete_Xbl_block list is a list that combines all 3 of these in one place for easily toggling on and off.
