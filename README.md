@@ -8,4 +8,4 @@ Add Xbguard_alt_servers for a complete block of xbox live, even when using Steal
 
 Add the Xbl_Content_servers list to block downloads, catalog and avatar domains (probably not necessary).
 
-Complete_Xbl_block list is a list that combines all 3 of these in one place for easily toggling on and off.
+Complete_Xbl_blocklist is a list that combines all 3 of these in one place for easily toggling on and off.
