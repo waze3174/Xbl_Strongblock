@@ -1,3 +1,5 @@
+#this list contains the main xbox live and xbox related servers that could send challenges to your console
+
 0.0.0.0 xncsi.xboxlive.com
 0.0.0.0 xemacs.xboxlive.com
 0.0.0.0 xeas.xboxlive.com
