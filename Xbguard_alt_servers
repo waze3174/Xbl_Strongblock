@@ -1,3 +1,5 @@
+#These are the alternate servers that the xbox communicates with when using Xbguard
+
 0.0.0.0 xemacs.beta.xboxlive.com
 0.0.0.0 xeas.beta.xboxlive.com
 0.0.0.0 xetgs.beta.xboxlive.com
