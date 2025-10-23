@@ -6,6 +6,6 @@ Use XboxLive_blocklist for basic coverage.
 
 Add the Xbl_Content_servers list to block downloads, catalog and avatar domains (probably not necessary)
 
-Add Xbguard_alt_servers for a complete block of xbox live
+Add Xbguard_alt_servers for a complete block of xbox live, even when using Stealth servers
 
 Complete_Xbl_block list is a list that combines all 3 of these in one place for easily toggling on and off.
