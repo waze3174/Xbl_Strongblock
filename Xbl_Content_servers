@@ -1,3 +1,5 @@
+#these are additionnal servers that xboxes connect to sometimes, they might not cause bans but better to block them to be safe
+
 0.0.0.0 download.xbox.com
 0.0.0.0 catalog.xboxlive.com
 0.0.0.0 avatar.xboxlive.com
